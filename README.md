@@ -232,9 +232,9 @@ Distribution was similar to non-missing entries, and random.
 
 ## 🧮 Appendix: Manual Category Assignments
 
-Manual imputations of missing `Category` values were done using the product name and subcategory. Below is a sample:
+Manual imputations of missing `Category` values were done using the product name and subcategory. Below is the list of all changes:
 
-| **Product Name**                                   | **Code** | **Category**              | **Subcategory**                          |
+| **Product Name**                                   | **Code** | **Segment**              | **"Is-Like-To**                          |
 |----------------------------------------------------|---------:|----------------------------|-------------------------------------------|
 | Aeropress Coffee Maker                             |        3 | Kitchen                   | Coffee Maker                              |
 | Almond Flour Pancake Mix                           |        4 | Food - Baking Goods       | Gluten-Free Pancake Mix                   |
